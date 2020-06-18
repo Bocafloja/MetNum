@@ -1,2 +1,1 @@
-# MetNum_VisualBasic
-Métodos numéricos para Visual  Basic
+# Métodos numéricos para Visual  Basic
