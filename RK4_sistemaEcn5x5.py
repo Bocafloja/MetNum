@@ -1,3 +1,6 @@
+"""
+Ésta función saca el Y en cada instánte; es necesario meter ésta función en el loop temporal e ir almacenando Y en otra lista
+"""
 def sistema5x5_RK4(f1, f2, f3, f4, f5, t, y1, y2, y3, y4, y5):
     
     k11 = h*f1(t, y1, y2, y3, y4, y5)
